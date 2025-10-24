@@ -1,0 +1,9 @@
+{
+	"name": "chdf-azureproject1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ce72469-b814-4d6c-a278-2f76cb191ac3",
+		"tenantId": "11a865f5-2aa1-4b13-bec6-14a4de85e917"
+	}
+}
